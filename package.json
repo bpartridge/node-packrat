@@ -1,0 +1,16 @@
+{
+  "name": "packrat",
+  "version": "0.1.0",
+  "description": "Downloads files to an on-disk cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "Brenton Partridge",
+  "license": "BSD",
+  "dependencies": {
+    "request": "*",
+    "mkdirp": "*"
+  }
+}
